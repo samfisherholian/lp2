@@ -5,9 +5,11 @@ Tem como objetivo executar um programa por meio da função da família exec, co
 
 execução.
 gcc q1.c -o q1
+
 ./q1
 
 o caminho e comando para executar o "ls" é:
 
 caminho = /bin/ls sem as aspas.
+
 comando = -l sem aspas.
