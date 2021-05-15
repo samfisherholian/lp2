@@ -1,2 +1,2 @@
 # lp2
-tarefas da diciplina de linguagem de programação 2/UFPB.
+Tarefas da disciplina de linguagem de programação 2/UFPB.
